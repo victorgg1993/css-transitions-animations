@@ -18,4 +18,4 @@ _Hints técnicos:_
 - Primero posiciona las agujas en el centro del reloj 
 - Para construir la animación podrías necesitar la propiedad `transform-origin`.
 
-__No olvides hacer Pull-Request de este ejercicio!!
+__No olvides hacer Pull-Request de este ejercicio!!__
